@@ -1,0 +1,17 @@
+/* button{
+
+    background-color: #95578a;
+    padding: 10px 25px; /* /* 1 = todos, 2 = cima-baixo, esquerda-direita, 3 = cima, direita-esquerda, baixo, 4 = cima, esquerda, baixo, direit/a
+    border: 2px solid black; /* tamanho, tipo, cor/*
+    border-radius: 1px; /* Arrendondamento dos cantos    /*
+    margin: 1px;
+} */
+
+.botao1{
+
+    background-color: red;
+    padding: 10px 25px;
+    border: 2px outset #8b0000;
+    border-radius: 1px;
+    margin: 1px;
+}
